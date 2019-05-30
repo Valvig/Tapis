@@ -13,3 +13,5 @@ Content/StarterContent/*
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Maps/TEST_cinematique.umap
+Content/Maps/TEST_cinematique_BuiltData.uasset
